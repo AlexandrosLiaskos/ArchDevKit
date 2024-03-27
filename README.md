@@ -28,7 +28,7 @@ Efficient disk space management is crucial for maintaining optimal performance. 
 #### Identifying Unwanted Files
 
 Use the `du` command to identify directories and files consuming significant disk space. For a high-level overview of top-level directories, execute:
-
+ 
 ```bash
 sudo du -h --max-depth=1 / | sort -h
 ```
@@ -69,7 +69,8 @@ For further disk space optimization, utilize `pacman` to clean up package caches
 sudo pacman -Sc
 ```
 
-![unmcgmc defined - Imgur](https://github.com/AlexandrosLiaskos/ArchDevKit/assets/128935863/cfd3d94b-66ea-41ff-b9df-aa954f46fc0c)
+
+![image](https://github.com/AlexandrosLiaskos/ArchDevKit/assets/128935863/dfd8c460-89a5-4171-ac20-63d0d6b3da7a)
 
 
 # Updating GitHub Repositories with Local Changes
