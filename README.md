@@ -2,7 +2,7 @@
   <tr>
   </tr>
 <tr>
-    <td valign="center">
+    <td valign="top">
       <h2 align="center">Toolkit for Devs Using Arch-Linux</h2>
       <ol>
         
