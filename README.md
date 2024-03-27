@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-![bulbasaur-y5-3440x1440](https://github.com/AlexandrosLiaskos/ArchDevKit/assets/128935863/e35953aa-aecf-419e-804d-086012e8faa6)
+![image](https://github.com/AlexandrosLiaskos/ArchDevKit/assets/128935863/1ffe5489-e784-4247-9d03-8b5404a59f40)
 
 
 # Clearing Unwanted Files in Arch Linux
