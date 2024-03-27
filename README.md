@@ -5,7 +5,7 @@
   </tr>
 <tr>
     <td valign="center">
-      <h2 align="center">Toolkit for Devs Using Arch</h2>
+      <h2 align="center">Toolkit for Devs Using Linux</h2>
       <ol>
         
   <a href="#clearing-unwanted-files-in-arch-linux">Clearing Unwanted Files in Arch Linux</a>
