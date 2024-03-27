@@ -13,7 +13,7 @@
    </ol>
     </td>
     <td align="right" valign="center">
-      <img src="https://github.com/AlexandrosLiaskos/ArchDevKit/assets/128935863/5c851391-55da-4122-8f59-6c87f296e1a1" width="150px">
+      <img src="https://github.com/AlexandrosLiaskos/ArchDevKit/assets/128935863/5c851391-55da-4122-8f59-6c87f296e1a1" width="300px">
     </td>
   </tr>
 </table>
